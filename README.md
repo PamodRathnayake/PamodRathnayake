@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pamod Rathnayake</h1>
 <h3 align="center">A Passionate UI/UX Designer from Sri Lanka</h3>
 
----
-
 - 🌱 I’m currently learning **Figma, Sketch, Adobe XD**
 
 - 💬 Ask me about **Figma, Illustrator, Photoshop, CorelDraw**
