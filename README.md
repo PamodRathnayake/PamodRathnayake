@@ -15,8 +15,10 @@ Let’s work together to create a seamless user experience using tools such as <
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href = "mailto:pamodrathnayakegpx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a target="_blank" href = "https://www.linkedin.com/in/pamod-rathnayake-3b2056212/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
+  <a href = "mailto:pamodrathnayakegpx@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white"height="25" width="75" /></a>
+  <a target="_blank" href = "https://www.linkedin.com/in/pamod-rathnayake-3b2056212/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=Linkedin&logoColor=white" height="26" width="90" /></a>
+  <a href = "https://www.facebook.com/pamod.rathnayake.98"><img src="https://img.shields.io/badge/Facebook-%230866FF?style=flat-square&logo=Facebook&logoColor=white" height="26" width="100" /></a>
+  <a href = "https://www.instagram.com/___mr.pamod___/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white" height="25" width="100" /></a>
 </p>
 
 ---
