@@ -34,33 +34,33 @@ Let’s work together to create a seamless user experience using tools such as <
   <tr>
     <td>
       <p align="center">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></a>
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Programming-%2300599C?style=flat-square&logo=C"</a>
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Programming-%2300599C?style=flat-square&logo=C%2B%2B"/>  
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=C%23&logoColor=white"/> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a></a>
     </td>
     <td>
       <p align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></p>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white"/></a></p>
     </td>
     <td>
      <p align="center">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></p>
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=Android%20Studio&logoColor=green&labelColor=black"/></a></p>
     </td>
     <td>
     <p align="center">
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></p>
-    <p align="center"><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a></p>
+     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ORACLE-%23F80000?style=flat-square&logo=oracle&logoColor=white"/></a></p>
     </td>
     <td>
       <p align="center">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-      <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white"/> </a>
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black"/> </a>
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/> </a>
+      <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=black"/> </a>
+      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6?style=flat-square&logo=adobexd&logoColor=black"/></a>
       </a></p>
     </td>
   </tr>
